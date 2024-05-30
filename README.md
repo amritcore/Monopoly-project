@@ -1,0 +1,3 @@
+This Python script simulates a game of Monopoly, featuring two players who buy properties until all are owned. It includes dice rolls, player position tracking, money management, and property ownership, ensuring players cannot purchase the same property twice. The simulation continues until all properties are bought, providing insights into game dynamics and the required number of turns.
+The simulation that I’ve implemented here is a simplified version of the often-times very complex models with which large financial institutions assess risks and determine their strategies. At the same time, these simulations are used by political parties to predict the effects of different measures given a variation of scenarios.
+
